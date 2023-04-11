@@ -2,7 +2,7 @@
 ![EOD logo](imgs/animated_logo.gif)  
 
 ## Abstract
-__Extended Object Detection__ (EOD) is a computer vision library with idea to represent an object as set of attrubutes, and than more represent complex objects as sets of simple objects and relationships between them. For attributes detection, this library incorportaes many famous other libraries, such as OpenCV, Dlib, Torch and so on. Other library idea is to provide cobfiguration file, that could set up detection system, without diving in library's API. Solution is created for usage in robotics and also has some tools to process result of detection system.
+__Extended Object Detection__ (EOD) is a computer vision library with idea to represent an object as set of attributes, and then more represent complex objects as sets of simple objects and relationships between them. For attributes detection, this library incorporates many famous other libraries, such as OpenCV, Dlib, Torch and so on. Other library idea is to provide configuration file, that could set up detection system, without diving in library's API. Solution is created for usage in robotics and also has some tools to process result of detection system.
 
 ## Cite
 Repository
